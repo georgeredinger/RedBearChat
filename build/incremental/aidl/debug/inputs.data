@@ -1,0 +1,7 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1382144882000 1669 a6ef4ee40db1cd76e083aee86b31de35cb49d05f /home/george/android/RedBearChat/src/com/redbear/chat/RBLGattAttributes.java
+1382144882000 11236 a366fbcec9fc714c201f5bc0d687a7f7f95a0620 /home/george/android/RedBearChat/src/com/redbear/chat/RBLService.java
+1382144882000 4488 8e71694b9a2c64009ad9d1d694e2f334e85abcc4 /home/george/android/RedBearChat/src/com/redbear/chat/Main.java
+1382144882000 6016 02d1525c5e53b629a467a05437ffd2b3d8aa5537 /home/george/android/RedBearChat/src/com/redbear/chat/Chat.java

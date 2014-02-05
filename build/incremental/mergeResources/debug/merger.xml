@@ -139,6 +139,7 @@ bold
                 type="layout" />
         </source>
         <source path="/home/george/android/RedBearChat/build/res/rs/debug" />
+        <source path="/home/george/android/RedBearChat/build/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
         <source path="/home/george/android/RedBearChat/build-types/debug/res" />
